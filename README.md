@@ -1,2 +1,1 @@
-# PlatON
-see wiki/https://github.com/platonnetwork/wiki
+Please see Wiki Page: https://github.com/PlatONnetwork/wiki/wiki
